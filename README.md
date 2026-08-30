@@ -5,7 +5,7 @@
 Operational analytics dashboard — 6 months of POS, labour, and customer data across 2 franchise locations ($2.3M+ revenue)
 
 ## Live Demo
-[View Dashboard]([https://karanhshah2005-lgtm.github.io/mucho-burrito-dashboard/](https://mucho-dashboard.vercel.app/login))
+[View Dashboard](https://mucho-dashboard.vercel.app/login)
 
 ## Tech Stack
 - Chart.js for interactive visualizations
